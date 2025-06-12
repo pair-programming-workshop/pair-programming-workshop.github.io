@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkworkshop_pairprogramming_site=self.webpackChunkworkshop_pairprogramming_site||[]).push([[1235],{8552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
